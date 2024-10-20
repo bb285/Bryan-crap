@@ -1,119 +1,68 @@
 {
     "name": "test",
-    "description": "A playful and vibrant theme with a fireworks display and colorful cats.",
+    "description": "A vibrant and festive theme inspired by a night scene with fireworks and colorful cats.",
     "version": "1.0",
-    "color": "#4B0082",
+    "color": "#6A5ACD",
     "authors": [
         {
-            "name": "Bryan",
-            "id": "719283297955610686"
-        },
-        {
-            "name": "CreativeThemes"
+            "name": "YourName",
+            "id": "1234567890"
         }
     ],
     "semanticColors": {
-        "HEADER_PRIMARY": [
-            "#00008B"
-        ],
-        "HEADER_SECONDARY": [
-            "#FFD700"
-        ],
-        "TEXT_NORMAL": [
-            "#FFFFFF"
-        ],
-        "TEXT_MUTED": [
-            "#87CEEB"
-        ],
-        "TEXT_LINK": [
-            "#4B0082"
-        ],
-        "INTERACTIVE_NORMAL": [
-            "#008B8B"
-        ],
-        "INTERACTIVE_HOVER": [
-            "#00FFFF"
-        ],
-        "INTERACTIVE_ACTIVE": [
-            "#00BFFF"
-        ],
-        "INTERACTIVE_MUTED": [
-            "#808080"
-        ],
-        "BACKGROUND_PRIMARY": [
-            "#00008B"
-        ],
-        "BACKGROUND_SECONDARY": [
-            "#191970"
-        ],
-        "BACKGROUND_SECONDARY_ALT": [
-            "#2F4F4F"
-        ],
-        "BACKGROUND_TERTIARY": [
-            "#2F4F4F"
-        ],
-        "BACKGROUND_ACCENT": [
-            "#4B0082"
-        ],
-        "BACKGROUND_MOBILE_PRIMARY": [
-            "#191970"
-        ],
-        "BACKGROUND_MOBILE_SECONDARY": [
-            "#2F4F4F"
-        ],
-        "BACKGROUND_MESSAGE_HOVER": [
-            "#FFB6C1"
-        ],
-        "BACKGROUND_MODIFIER_HOVER": [
-            "#2F4F4F"
-        ],
-        "BACKGROUND_MODIFIER_ACTIVE": [
-            "#00BFFF"
-        ],
-        "BACKGROUND_MODIFIER_SELECTED": [
-            "#3B3B3B"
-        ],
-        "BACKGROUND_MODIFIER_ACCENT": [
-            "#4B0082"
-        ],
-        "CHANNEL_ICON": [
-            "#4B0082"
-        ],
-        "CHAT_BACKGROUND": [
-            "#00008B"
-        ],
-        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-            "#FFD700"
-        ],
-        "CARD_PRIMARY_BG": [
-            "#191970"
-        ],
-        "CARD_SECONDARY_BG": [
-            "#2F4F4F"
-        ],
-        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#2F4F4F"
-        ],
-        "BG_BACKDROP": [
-            "#00008B"
-        ]
-    },
-    "rawColors": {
-        "PRIMARY_500": "#00008B",
-        "PRIMARY_600": "#191970",
-        "PRIMARY_700": "#2F4F4F",
-        "PRIMARY_800": "#4B0082",
-        "YELLOW_300": "#FFFF00",
-        "YELLOW_400": "#FFD700",
-        "GREEN_600": "#87CEEB",
-        "GREEN_700": "#008B8B",
-        "GREEN_800": "#00FFFF",
-        "GREEN_900": "#00BFFF",
-        "WHITE_500": "#808080"
+        "HEADER_PRIMARY": "#FFD700",
+        "HEADER_SECONDARY": "#FFB6C1",
+        "TEXT_NORMAL": "#E6E6FA",
+        "TEXT_MUTED": "#B0C4DE",
+        "TEXT_LINK": "#FF69B4",
+        "INTERACTIVE_NORMAL": "#8DB6FF",
+        "INTERACTIVE_HOVER": "#FFA07A",
+        "INTERACTIVE_ACTIVE": "#FFD700",
+        "INTERACTIVE_MUTED": "#6A5ACD",
+        "BACKGROUND_PRIMARY": "#191970",
+        "BACKGROUND_SECONDARY": "#000080",
+        "BACKGROUND_SECONDARY_ALT": "#1C1C1C",
+        "BACKGROUND_TERTIARY": "#2E2E2E",
+        "BACKGROUND_ACCENT": "#4682B4",
+        "BACKGROUND_FLOATING": "#2F4F4F",
+        "BACKGROUND_MOBILE_PRIMARY": "#191970",
+        "BACKGROUND_MOBILE_SECONDARY": "#6A5ACD",
+        "BACKGROUND_NESTED_FLOATING": "#8DB6FF",
+        "BACKGROUND_MENTIONED": "rgba(255, 215, 0, 0.4)",
+        "BACKGROUND_MESSAGE_HOVER": "#FFB6C1",
+        "BACKGROUND_MODIFIER_HOVER": "#2F4F4F",
+        "BACKGROUND_MODIFIER_ACTIVE": "#3B3B3B",
+        "BACKGROUND_MODIFIER_SELECTED": "#4682B4",
+        "BACKGROUND_MODIFIER_ACCENT": "#FFD700",
+        "SCROLLBAR_THIN_THUMB": "#90EE90",
+        "SCROLLBAR_THIN_TRACK": "transparent",
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": "#FFD700",
+        "CHANNELS_DEFAULT": "#8DB6FF",
+        "TEXT_DANGER": "#FF4500",
+        "CHAT_BACKGROUND": "#1C1C1C",
+        "REDESIGN_ACTIVITY_CARD_BACKGROUND": "#191970",
+        "CARD_PRIMARY_BG": "#2F4F4F",
+        "CARD_SECONDARY_BG": "#3B3B3B",
+        "BG_BACKDROP": "rgba(25, 25, 112, 0.9)",
+        "BRAND_260": "#FF69B4",
+        "PRIMARY_500": "#8DB6FF",
+        "PRIMARY_200": "#FFD700",
+        "PRIMARY_360": "#FF69B4",
+        "PRIMARY_400": "#6A5ACD",
+        "PRIMARY_700": "#2E2E2E",
+        "PLUM_1": "#E6E6FA",
+        "PLUM_3": "#FFD700",
+        "PLUM_6": "#8DB6FF",
+        "PLUM_10": "#B0C4DE",
+        "PLUM_11": "#191970",
+        "PLUM_18": "#2F4F4F",
+        "RED_400": "#FF4500",
+        "GREEN_360": "#90EE90",
+        "WHITE_500": "#E6E6FA"
     },
     "background": {
         "blur": 0.5,
-        "url": "https://cdn.discordapp.com/attachments/1114210344181706773/1297690624643829841/IMG_1335.png?ex=6716d812&is=67158692&hm=9d0ddee0094c51a5e8bd123545ece93ba98f1e2ee0c2538fc03d322dcfdce578&",
+        "url": "https://example.com/playful-night-background.jpg",
         "alpha": 0.7
     }
 }
