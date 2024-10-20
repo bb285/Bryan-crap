@@ -1,6 +1,8 @@
 {
     "name": "test",
-    "description": "test.",
+    "description": "A vibrant and harmonious theme with a playful twist.",
+    "version": "1.1",
+    "color": "#8DB6FF",
     "authors": [
         {
             "name": "Bryan",
@@ -21,54 +23,54 @@
     ],
     "plus": {
         "version": 0,
-        "mentionLineColor": "#FFD700", 
+        "mentionLineColor": "#FFD700",
         "iconpack": "rosiecord-plumpy"
     },
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#8DB6FF" 
+            "#8DB6FF"
         ],
         "HEADER_SECONDARY": [
-            "#FFD700" 
+            "#FFD700"
         ],
         "TEXT_NORMAL": [
-            "#FFFFFF" 
+            "#E6E6FA"
         ],
         "TEXT_PRIMARY": [
-            "#FFFFFF"
+            "#E6E6FA"
         ],
         "TEXT_MUTED": [
-            "#FFD700" 
+            "#FFD700"
         ],
         "INTERACTIVE_NORMAL": [
-            "#FF69B4" 
+            "#FF69B4"
         ],
         "INTERACTIVE_HOVER": [
-            "#FFA07A" 
+            "#FFA07A"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#E6E6FA" 
+            "#E6E6FA"
         ],
         "INTERACTIVE_MUTED": [
             "#8DB6FF"
         ],
         "BACKGROUND_PRIMARY": [
-            "#191970" 
+            "#191970"
         ],
         "BACKGROUND_SECONDARY": [
-            "#000080" 
+            "#000080"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#1C1C1C" 
+            "#1C1C1C"
         ],
         "BACKGROUND_TERTIARY": [
             "#1C1C1C"
         ],
         "BACKGROUND_ACCENT": [
-            "#4682B4" 
+            "#4682B4"
         ],
         "BACKGROUND_FLOATING": [
-            "#2F4F4F" 
+            "#2F4F4F"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#191970"
@@ -77,13 +79,13 @@
             "#000080"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#FF69B4" 
+            "#FF69B4"
         ],
         "BACKGROUND_MENTIONED": [
-            "rgba(255, 215, 0, 0.4)" 
+            "rgba(255, 215, 0, 0.4)"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#FFB6C1" 
+            "#FFB6C1"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
             "#2F4F4F"
@@ -92,13 +94,13 @@
             "#2F4F4F"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#3B3B3B" 
+            "#3B3B3B"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#4682B4"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#90EE90" 
+            "#90EE90"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "transparent"
@@ -116,10 +118,10 @@
             "#8DB6FF"
         ],
         "TEXT_LINK": [
-            "#FF69B4" 
+            "#FF69B4"
         ],
         "TEXT_DANGER": [
-            "#FF4500" 
+            "#FF4500"
         ],
         "KEYBOARD": [
             "#191970"
@@ -143,14 +145,14 @@
             "#2F4F4F"
         ],
         "BG_BACKDROP": [
-            "rgba(25, 25, 112, 0.9)" 
+            "rgba(25, 25, 112, 0.9)"
         ]
     },
     "rawColors": {
         "PRIMARY_500": "#8DB6FF",
         "PRIMARY_100": "#FFB6C1",
         "PRIMARY_200": "#FFD700",
-        "PRIMARY_230": "#FFFFFF",
+        "PRIMARY_230": "#E6E6FA",
         "PRIMARY_300": "#4682B4",
         "PRIMARY_360": "#FF69B4",
         "PRIMARY_400": "#8DB6FF",
@@ -160,10 +162,10 @@
         "PRIMARY_660": "#3B3B3B",
         "PRIMARY_700": "#2E2E2E",
         "PRIMARY_800": "#000080",
-        "PLUM_1": "#FFFFFF",
+        "PLUM_1": "#E6E6FA",
         "PLUM_3": "#FFD700",
         "PLUM_6": "#8DB6FF",
-        "PLUM_9": "#FFFFFF",
+        "PLUM_9": "#E6E6FA",
         "PLUM_10": "#A4A4A4",
         "PLUM_11": "#191970",
         "PLUM_13": "#4682B4",
@@ -182,12 +184,11 @@
         "GREEN_600": "#2F4F4F",
         "GREEN_360": "#90EE90",
         "RED_400": "#FF4500",
-        "WHITE_500": "#FFFFFF"
+        "WHITE_500": "#E6E6FA"
     },
     "background": {
         "blur": 0.5,
-        "url": "https://github.com/bb285/cancer-/blob/main/2E548DE7-92F3-4498-8AC2-970FFBB44D59.png",
+        "url": "https://github-production-user-asset-6210df.s3.amazonaws.com/157327107/348579945-02504e29-770f-4359-9e2e-2989d3aff980.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241020T213031Z&X-Amz-Expires=300&X-Amz-Signature=93fd0c6f044560131cfa593db3b79db9c96f2b36958def7e6890147d9cb83282&X-Amz-SignedHeaders=host",
         "alpha": 0.7
-    },
-    "color": "#EA42CD"
+    }
 }
