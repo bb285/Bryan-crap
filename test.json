@@ -21,7 +21,7 @@
     ],
     "plus": {
         "version": 0,
-        "mentionLineColor": "#FFD700", // Gold color for mentions
+        "mentionLineColor": "#FFD700"
         "iconpack": "rosiecord-plumpy"
     },
     "semanticColors": {
