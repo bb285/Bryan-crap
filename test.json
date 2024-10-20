@@ -1,0 +1,193 @@
+{
+    "name": "test",
+    "description": "test.",
+    "authors": [
+        {
+            "name": "Bryan",
+            "id": "719283297955610686"
+        },
+        {
+            "name": "catnip.json",
+            "id": "980160393093730395"
+        },
+        {
+            "name": "sovimuffins",
+            "id": "739495873859289139"
+        },
+        {
+            "name": "Glitch",
+            "id": "628840840160083978"
+        }
+    ],
+    "plus": {
+        "version": 0,
+        "mentionLineColor": "#FFD700", // Gold color for mentions
+        "iconpack": "rosiecord-plumpy"
+    },
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#8DB6FF" 
+        ],
+        "HEADER_SECONDARY": [
+            "#8DB6FF"
+        ],
+        "TEXT_NORMAL": [
+            "#FFFFFF"
+        ],
+        "TEXT_PRIMARY": [
+            "#FFFFFF"
+        ],
+        "TEXT_MUTED": [
+            "#FFD700" 
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#FFD700"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#FFB6C1" 
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#E6E6FA" 
+        ],
+        "INTERACTIVE_MUTED": [
+            "#8DB6FF"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#191970" 
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#000080" 
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#1C1C1C"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#1C1C1C"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#4682B4" 
+        ],
+        "BACKGROUND_FLOATING": [
+            "#1C1C1C"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#191970"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#000080"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#FFB6C1"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "rgba(255, 215, 0, 0.4)" 
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#FFB6C1"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#222222"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#222222"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#2E2E2E"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#3B3B3B"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#90EE90" 
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#90EE90"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#90EE90"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#90EE90"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#8DB6FF"
+        ],
+        "TEXT_LINK": [
+            "#FFB6C1"
+        ],
+        "TEXT_DANGER": [
+            "#FF4500" 
+        ],
+        "KEYBOARD": [
+            "#191970"
+        ],
+        "CHANNEL_ICON": [
+            "#FFB6C1"
+        ],
+        "CHAT_BACKGROUND": [
+            "#1C1C1C"
+        ],
+        "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+            "#191970"
+        ],
+        "CARD_PRIMARY_BG": [
+            "#222222"
+        ],
+        "CARD_SECONDARY_BG": [
+            "#3B3B3B"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+            "#222222"
+        ],
+        "BG_BACKDROP": [
+            "04010173"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_500": "#8DB6FF",
+        "PRIMARY_100": "#FFB6C1",
+        "PRIMARY_200": "#FFD700",
+        "PRIMARY_230": "#FFFFFF",
+        "PRIMARY_300": "#4682B4",
+        "PRIMARY_360": "#FFB6C1",
+        "PRIMARY_400": "#8DB6FF",
+        "PRIMARY_600": "#222222",
+        "PRIMARY_630": "#191970",
+        "PRIMARY_645": "#222222",
+        "PRIMARY_660": "#3B3B3B",
+        "PRIMARY_700": "#2E2E2E",
+        "PRIMARY_800": "#000080",
+        "PLUM_1": "#FFFFFF",
+        "PLUM_3": "#FFD700",
+        "PLUM_6": "#8DB6FF",
+        "PLUM_9": "#FFFFFF",
+        "PLUM_10": "#A4A4A4",
+        "PLUM_11": "#191970",
+        "PLUM_13": "#4682B4",
+        "PLUM_17": "#000080",
+        "PLUM_18": "#1C1C1C",
+        "PLUM_19": "#2E2E2E",
+        "PLUM_20": "#3B3B3B",
+        "PLUM_22": "#222222",
+        "PLUM_24": "#191970",
+        "BRAND_260": "#FFB6C1",
+        "BRAND_360": "#FFB6C1",
+        "BRAND_500": "#8DB6FF",
+        "BRAND_560": "#FFD700",
+        "YELLOW_300": "#FFD700",
+        "YELLOW_260": "#FFD700",
+        "GREEN_600": "#222222",
+        "GREEN_360": "#90EE90",
+        "RED_400": "#FF4500",
+        "WHITE_500": "#FFFFFF"
+    },
+    "background": {
+        "blur": 0.5,
+        "url": "https://github.com/bb285/cancer-/blob/main/2E548DE7-92F3-4498-8AC2-970FFBB44D59.png",
+        "alpha": 0.7
+    },
+    "color": "#EA42CD"
+}
