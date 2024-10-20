@@ -1,6 +1,6 @@
 {
-    "name": "test",
-    "description": "test.",
+    "name": "DateNight",
+    "description": "Art by Vayneeee4.",
     "authors": [
         {
             "name": "Bryan",
@@ -21,7 +21,7 @@
     ],
     "plus": {
         "version": 0,
-        "mentionLineColor": "#FFD700"
+        "mentionLineColor": "#FFD700", 
         "iconpack": "rosiecord-plumpy"
     },
     "semanticColors": {
@@ -29,10 +29,10 @@
             "#8DB6FF" 
         ],
         "HEADER_SECONDARY": [
-            "#8DB6FF"
+            "#FFD700" 
         ],
         "TEXT_NORMAL": [
-            "#FFFFFF"
+            "#FFFFFF" 
         ],
         "TEXT_PRIMARY": [
             "#FFFFFF"
@@ -41,10 +41,10 @@
             "#FFD700" 
         ],
         "INTERACTIVE_NORMAL": [
-            "#FFD700"
+            "#FF69B4" 
         ],
         "INTERACTIVE_HOVER": [
-            "#FFB6C1" 
+            "#FFA07A" 
         ],
         "INTERACTIVE_ACTIVE": [
             "#E6E6FA" 
@@ -59,7 +59,7 @@
             "#000080" 
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#1C1C1C"
+            "#1C1C1C" 
         ],
         "BACKGROUND_TERTIARY": [
             "#1C1C1C"
@@ -68,7 +68,7 @@
             "#4682B4" 
         ],
         "BACKGROUND_FLOATING": [
-            "#1C1C1C"
+            "#2F4F4F" 
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#191970"
@@ -77,25 +77,25 @@
             "#000080"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#FFB6C1"
+            "#FF69B4" 
         ],
         "BACKGROUND_MENTIONED": [
             "rgba(255, 215, 0, 0.4)" 
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#FFB6C1"
+            "#FFB6C1" 
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#222222"
+            "#2F4F4F"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#222222"
+            "#2F4F4F"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#2E2E2E"
+            "#3B3B3B" 
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#3B3B3B"
+            "#4682B4"
         ],
         "SCROLLBAR_THIN_THUMB": [
             "#90EE90" 
@@ -110,13 +110,13 @@
             "#90EE90"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-            "#90EE90"
+            "#FFD700"
         ],
         "CHANNELS_DEFAULT": [
             "#8DB6FF"
         ],
         "TEXT_LINK": [
-            "#FFB6C1"
+            "#FF69B4" 
         ],
         "TEXT_DANGER": [
             "#FF4500" 
@@ -125,7 +125,7 @@
             "#191970"
         ],
         "CHANNEL_ICON": [
-            "#FFB6C1"
+            "#FF69B4"
         ],
         "CHAT_BACKGROUND": [
             "#1C1C1C"
@@ -134,16 +134,16 @@
             "#191970"
         ],
         "CARD_PRIMARY_BG": [
-            "#222222"
+            "#2F4F4F"
         ],
         "CARD_SECONDARY_BG": [
             "#3B3B3B"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#222222"
+            "#2F4F4F"
         ],
         "BG_BACKDROP": [
-            "04010173"
+            "rgba(25, 25, 112, 0.9)" 
         ]
     },
     "rawColors": {
@@ -152,11 +152,11 @@
         "PRIMARY_200": "#FFD700",
         "PRIMARY_230": "#FFFFFF",
         "PRIMARY_300": "#4682B4",
-        "PRIMARY_360": "#FFB6C1",
+        "PRIMARY_360": "#FF69B4",
         "PRIMARY_400": "#8DB6FF",
-        "PRIMARY_600": "#222222",
+        "PRIMARY_600": "#2F4F4F",
         "PRIMARY_630": "#191970",
-        "PRIMARY_645": "#222222",
+        "PRIMARY_645": "#2F4F4F",
         "PRIMARY_660": "#3B3B3B",
         "PRIMARY_700": "#2E2E2E",
         "PRIMARY_800": "#000080",
@@ -173,20 +173,20 @@
         "PLUM_20": "#3B3B3B",
         "PLUM_22": "#222222",
         "PLUM_24": "#191970",
-        "BRAND_260": "#FFB6C1",
-        "BRAND_360": "#FFB6C1",
+        "BRAND_260": "#FF69B4",
+        "BRAND_360": "#FF69B4",
         "BRAND_500": "#8DB6FF",
         "BRAND_560": "#FFD700",
         "YELLOW_300": "#FFD700",
         "YELLOW_260": "#FFD700",
-        "GREEN_600": "#222222",
+        "GREEN_600": "#2F4F4F",
         "GREEN_360": "#90EE90",
         "RED_400": "#FF4500",
         "WHITE_500": "#FFFFFF"
     },
     "background": {
         "blur": 0.5,
-        "url": "https://github.com/bb285/cancer-/blob/main/2E548DE7-92F3-4498-8AC2-970FFBB44D59.png",
+        "url": "https://github.com/user-attachments/assets/02504e29-770f-4359-9e2e-2989d3aff980",
         "alpha": 0.7
     },
     "color": "#EA42CD"
