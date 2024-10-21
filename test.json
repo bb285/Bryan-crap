@@ -5,8 +5,8 @@
     "color": "#6A5ACD",
     "authors": [
         {
-            "name": "Bryan",
-            "id": "719283297955610686"
+            "name": "YourName",
+            "id": "1234567890"
         }
     ],
     "semanticColors": {
@@ -91,6 +91,7 @@
         "BRAND_500": "#8DB6FF",
         "BRAND_560": "#FFD700",
         "YELLOW_300": "#FFD700",
+        "YELLOW_400": "#FFFF00",
         "YELLOW_260": "#FFD700",
         "GREEN_600": "#2F4F4F",
         "GREEN_360": "#90EE90",
@@ -106,3 +107,4 @@
         "alpha": 0.7
     }
 }
+
