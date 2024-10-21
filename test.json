@@ -14,7 +14,7 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#4B0082"
+            "#008B8B"
         ],
         "HEADER_SECONDARY": [
             "#FFD700"
@@ -117,4 +117,3 @@
         "alpha": 0.7
     }
 }
-
