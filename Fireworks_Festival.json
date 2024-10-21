@@ -2,7 +2,7 @@
     "name": "Fireworks Festival",
     "description": "A playful and vibrant theme with a fireworks display and colorful cats.",
     "version": "1.0",
-    "color": "#4B0082",
+    "color": "#6A5ACD",
     "authors": [
         {
             "name": "Bryan",
@@ -14,7 +14,7 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#008B8B"
+            "#6A5ACD"
         ],
         "HEADER_SECONDARY": [
             "#FFD700"
@@ -26,7 +26,7 @@
             "#87CEEB"
         ],
         "TEXT_LINK": [
-            "#4B0082"
+            "#6A5ACD"
         ],
         "INTERACTIVE_NORMAL": [
             "#008B8B"
@@ -53,7 +53,7 @@
             "#2F4F4F"
         ],
         "BACKGROUND_ACCENT": [
-            "#4B0082"
+            "#6A5ACD"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#191970"
@@ -74,10 +74,10 @@
             "#3B3B3B"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#4B0082"
+            "#6A5ACD"
         ],
         "CHANNEL_ICON": [
-            "#4B0082"
+            "#6A5ACD"
         ],
         "CHAT_BACKGROUND": [
             "#00008B"
@@ -102,7 +102,7 @@
         "PRIMARY_500": "#00008B",
         "PRIMARY_600": "#191970",
         "PRIMARY_700": "#2F4F4F",
-        "PRIMARY_800": "#4B0082",
+        "PRIMARY_800": "#6A5ACD",
         "YELLOW_300": "#FFFF00",
         "YELLOW_400": "#FFD700",
         "GREEN_600": "#87CEEB",
